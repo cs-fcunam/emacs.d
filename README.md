@@ -11,3 +11,12 @@ Para instalar éste paquete pon sólo la siguiente línea al inicio de tu .emacs
      (load-file (expand-file-name "~/.emacs.d/init.el")
 
 
+Configura jde y ecb desde emacs:
+
+      M-x configure-variable
+      ecb-source-path
+
+      M-x configure-variable
+      jde-jdk-registry
+
+En ambos casos, debes guardar tus cambios para futuras sesiones.
