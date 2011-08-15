@@ -13,10 +13,10 @@ Para instalar éste paquete pon sólo la siguiente línea al inicio de tu .emacs
 
 Configura jde y ecb desde emacs:
 
-      M-x configure-variable
+      M-x customize-variable
       ecb-source-path
 
-      M-x configure-variable
+      M-x customize-variable
       jde-jdk-registry
 
 En ambos casos, debes guardar tus cambios para futuras sesiones.
