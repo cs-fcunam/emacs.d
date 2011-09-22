@@ -8,7 +8,7 @@ Primero descarga éste repositorio en tu home:
 
 Para instalar éste paquete pon sólo la siguiente línea al inicio de tu .emacs así:
 
-     (load-file (expand-file-name "~/.emacs.d/init.el")
+     (load-file (expand-file-name "~/.emacs.d/init.el"))
 
 
 Configura jde y ecb desde emacs:
